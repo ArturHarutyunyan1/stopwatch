@@ -1,4 +1,4 @@
-# JavaScript Stopwatch app
+# JavaScript Stopwatch
 
 Simple stopwatch app written in JavaScript
 
